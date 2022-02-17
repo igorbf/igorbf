@@ -1,4 +1,4 @@
-- Olá, sou @igorbf
+- Olá, sou Igor Barbosa, meu nome de usuário aqui no GitHub é @igorbf .
 - Recrutadores! Esse é meu portifólio, por favor, fique à vontade para avaliar e mandar sugestões!
 - Caso tenha dúvidas sobre o conteúdo apresentado por mim, sendo recrutador ou não, estou a disposição para sanar duvidas e ajudar.
 - Atualmente tenho estudado constantemente Linguagem C e JavaScript, mas não nego oportunidades de aprender coisas novas!
